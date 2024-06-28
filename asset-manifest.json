@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/seat-detection-system/static/css/main.39aeca47.css",
+    "main.js": "/seat-detection-system/static/js/main.24dc56c4.js",
+    "static/js/453.b3bfb185.chunk.js": "/seat-detection-system/static/js/453.b3bfb185.chunk.js",
+    "static/media/header_background_image.jpg": "/seat-detection-system/static/media/header_background_image.0568f1b2ff06bcaa5740.jpg",
+    "static/media/seat2.jpg.png": "/seat-detection-system/static/media/seat2.jpg.093e8335cc3debbfcc32.png",
+    "static/media/seat1.jpg.png": "/seat-detection-system/static/media/seat1.jpg.224161f4f120e059e5b9.png",
+    "index.html": "/seat-detection-system/index.html",
+    "main.39aeca47.css.map": "/seat-detection-system/static/css/main.39aeca47.css.map",
+    "main.24dc56c4.js.map": "/seat-detection-system/static/js/main.24dc56c4.js.map",
+    "453.b3bfb185.chunk.js.map": "/seat-detection-system/static/js/453.b3bfb185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39aeca47.css",
+    "static/js/main.24dc56c4.js"
+  ]
+}
